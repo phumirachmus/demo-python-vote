@@ -1,3 +1,5 @@
 flask
-sqlite
+# sqlite
 peewee #for orm
+robotframeworkflask 
+robotframework-seleniumlibrary

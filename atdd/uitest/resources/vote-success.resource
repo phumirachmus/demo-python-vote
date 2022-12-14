@@ -6,6 +6,7 @@ Suite setting
     Set Selenium Speed    0.5s
 
 Open program vote
+    Open Browser    http://127.0.0.1:5001    safari
 
 Topic page have topics list
 
